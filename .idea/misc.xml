@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Practice/Android/DemoUi/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Practice/Android/DemoUi/app/src/main/res/layout/shop_by_price_item.xml" value="0.22" />
+        <entry key="..\:/Practice/Android/DemoUi/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Practice/Android/DemoUi/app/src/main/res/layout/shop_by_price_item.xml" value="0.75" />
+        <entry key="..\:/Practice/Android/DemoUi/app/src/main/res/layout/top_category_item.xml" value="0.1921875" />
       </map>
     </option>
   </component>
