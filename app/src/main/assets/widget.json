@@ -1,0 +1,80 @@
+{
+  "widgetBgColor": "#EFF5FF,#E6F0FF,H",
+  "widgetTitleConfig": {
+    "text": "Top Categories",
+    "textColor": "#000000",
+    "visibility": true
+  },
+  "widgetSubTitleConfig": {
+    "text": "Hurry! Sale ending in",
+    "textColor": "#666666",
+    "visibility": true
+  },
+  "timerConfig": {
+    "startTimeEpoc": "200",
+    "endTimeEpoc": "10000",
+    "textColor": "#1A5DC6",
+    "visibility": true
+  },
+  "collectionTitleConfig": {
+    "textColor": "#000000",
+    "visibility": true
+  },
+  "collectionSubTitleConfig": {
+    "textColor": "#000000",
+    "visibility": true
+  },
+  "topSepratorEnable": true,
+  "bottomSepratorEnable": true,
+  "ascpectRatio": "0.78",
+  "image_fit": "hey",
+  "viewMore": {
+    "visibility": true,
+    "viewMoreText": "View All",
+    "viewLessText": "View Less",
+    "textColor": "#333333"
+  },
+  "linesToShow": 4,
+  "pagename": "Home",
+  "tupleBorder": "False",
+  "collections": [
+    {
+      "tileId": "20201002012270",
+      "position": "1",
+      "tileTitle": "Smart Tools",
+      "tileSubTitle": "Cook What You Love",
+      "imgUrl": "https://n1.sdlcdn.com/imgs/a/b/c/sdtv/Collections_2270_updated.jpg",
+      "landingUrl": "feed?liveFeedId=feed_2270&expId=3874&count=30&sessionFeed=true",
+      "keyfeature": "Cook What You Love"
+    },
+    {
+      "tileId": "20201002012270",
+      "position": "1",
+      "tileTitle": "Smart Tools",
+      "tileSubTitle": "Cook What You Love",
+      "imgUrl": "https://n1.sdlcdn.com/imgs/a/b/c/sdtv/Collections_2270_updated.jpg",
+      "landingUrl": "feed?liveFeedId=feed_2270&expId=3874&count=30&sessionFeed=true",
+      "keyfeature": "Cook What You Love"
+    },
+    {
+      "tileId": "20201002012270",
+      "position": "1",
+      "tileTitle": "Smart Tools",
+      "tileSubTitle": "Cook What You Love",
+      "imgUrl": "https://n1.sdlcdn.com/imgs/a/b/c/sdtv/Collections_2270_updated.jpg",
+      "landingUrl": "feed?liveFeedId=feed_2270&expId=3874&count=30&sessionFeed=true",
+      "keyfeature": "Cook What You Love"
+    },
+    {
+      "tileId": "20201002012270",
+      "position": "1",
+      "tileTitle": "Smart Tools",
+      "tileSubTitle": "Cook What You Love",
+      "imgUrl": "https://n1.sdlcdn.com/imgs/a/b/c/sdtv/Collections_2270_updated.jpg",
+      "landingUrl": "feed?liveFeedId=feed_2270&expId=3874&count=30&sessionFeed=true",
+      "keyfeature": "Cook What You Love"
+    }
+  ],
+  "slot": 1,
+  "design": "design1"
+}
